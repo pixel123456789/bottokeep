@@ -5,7 +5,7 @@ import requests
 
 app = Flask(__name__)
 
-URLS = ["https://example1.com", "https://example2.com"]  # Replace with your URLs
+URLS = ["https://bottokeep.onrender.com", "https://inidev.co.uk"]  # Replace with your URLs
 
 def ping_urls():
     while True:
